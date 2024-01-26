@@ -2,6 +2,7 @@
 
 [Restful API in Swift 5](https://chat.openai.com/c/c4746939-b698-482d-ab1e-16317c450559) <br><br>
 
+[lấy data để render ra màn hình](https://chat.openai.com/c/b69e2793-f0b5-4651-9282-99dce909d4a6) <br><br>
 
 # URLSession <br><br>
 ```swift
