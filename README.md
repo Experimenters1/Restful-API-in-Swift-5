@@ -4,6 +4,8 @@
 
 [lấy data để render ra màn hình](https://chat.openai.com/c/b69e2793-f0b5-4651-9282-99dce909d4a6) <br><br>
 
+[ví dụ đặt hàm fetchData ở viewDidLoad hay đâu ?](https://chat.openai.com/c/e601fc1f-9e06-4f8f-9947-c66b6d6b73ac) <br><br>
+
 # URLSession <br><br>
 ```swift
 import Foundation
