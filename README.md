@@ -6,6 +6,9 @@
 
 [ví dụ đặt hàm fetchData ở viewDidLoad hay đâu ?](https://chat.openai.com/c/e601fc1f-9e06-4f8f-9947-c66b6d6b73ac) <br><br>
 
+[Thread trong URLSession với kết nối API là gì?](https://gemini.google.com/app/586ee2028aa08288) <br><br>
+https://chat.openai.com/c/b039b915-cd27-4566-ae8b-fb2b9b1f7d03
+
 # URLSession <br><br>
 ```swift
 import Foundation
